@@ -1,2 +1,0 @@
-# MountainMap
-Minecraft BedrockViz Map
