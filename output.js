@@ -1,7 +1,7 @@
 // mcpe_viz javascript helper file -- created by bedrock_viz program
 var worldName = 'The Hills are Alive';
 var worldSeed = 460628901;
-var creationTime = 'Tue May  3 15:31:54 2022';
+var creationTime = 'Tue May  3 15:47:57 2022';
 var creationBedrockVizVersion = '0.1.7';
 var loadGeoJSONFlag = true;
 var fnGeoJSON = 'output.geojson';
@@ -16,7 +16,7 @@ var dimensionInfo = {
   maxWorldY: 4816 + 15,
   playerPosX: 0.000000,
   playerPosY: 0.000000,
-  geojsonBlocks: [ 'End Portal Frame' ],
+  geojsonBlocks: [ 'End Portal Frame', 'Lectern' ],
   spawnableFlag: false,
   fnLayerTop: 'tiles/bedrock_viz.overworld.map.png.{y}.{x}.png',
   fnLayerBiome: 'tiles/bedrock_viz.overworld.biome.png.{y}.{x}.png',
